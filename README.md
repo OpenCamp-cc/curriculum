@@ -3,11 +3,14 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This repository contains the full curriculum used for the coding bootcamp at
-open camp, split across different folders:
+[open camp](https://opencamp.cc), an open, challenging, and affordable coding
+bootcamp.
+
+
+The curriculum split across different folders in this repository:
 
 - Week 1, 2, ..., N: Each of this folder contains the materials to be covered for each week of the bootcamp
 - Assignments: All assignments are stored in this folder
-
 
 The curriculum is in active development in preparation for [Cohort 0][cohort-0] in January 2024.
 
