@@ -15,6 +15,13 @@ The curriculum split across different folders in this repository:
 The curriculum is in active development in preparation for [Cohort 0][cohort-0] in January 2024.
 
 
+## Questions or feedback
+
+You can welcome to open a GitHub issue to ask questions or share your feedback.
+
+Alternatively, please join us on our [Discord server][dc-invite] to ask questions.
+
+
 ## License
 
 This work is licensed under a
@@ -27,3 +34,5 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 [cohort-0]: https://opencamp.cc/docs/applications/
+
+[dc-invite]: https://discord.gg/cXQsaRq8nr
