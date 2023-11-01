@@ -52,6 +52,11 @@ Bootstrap) in future lessons.
     - This lecture covers the basics of Computer Science, such as Binary numbers, algorithms
     - Review questions will be in Week 2
 
+**Assignments**
+
+- [A1: Creating a simple personal website pt. 1](../assignments/a1.md): Due on W1 Thursday 23:59
+- [A2: Creating a simple personal website pt. 2](../assignments/a2.md): Due on W1 Sunday 23:59
+
 
 ### Review Questions
 
@@ -351,12 +356,6 @@ using CSS. The button should say "I love CSS".
 
   Try recreating this button with the `<style>` tag. 
 </details>
-
-**Assignments for W1**
-
-- [A1: Creating a simple personal website pt. 1](../assignments/a1.md): Due by W1 Thursday 23:59
-- [A2: Creating a simple personal website pt. 2](../assignments/a2.md): Due by W1 Sunday 23:59
-
 
 [cs50w-0]: https://cs50.harvard.edu/web/2020/weeks/0/
 [cs50x-1]: https://www.youtube.com/watch?v=IDDmrzzB14M
