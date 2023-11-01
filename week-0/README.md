@@ -3,10 +3,12 @@
 Week 0 (W0) consists of a few simple tasks that you need complete before W1
 officially starts.
 
-At the end of this week, you should be able to do the following:
+At the end of this week, you should have completed the following:
 
-- Install and use Visual Studio Code, or VS Code in short
-- Copy and paste simple HTML code and opening them in your web browser
+- Introduced yourself to the rest of the class or community on our Discord server
+- Install and begin using Visual Studio Code
+    - Copy and paste simple HTML code and opening web pages in your web browser
+- Install Sourcetree
 
 You will learn the basics of HTML and CSS in W1.
 
@@ -15,7 +17,6 @@ You will learn the basics of HTML and CSS in W1.
 There are no review questions for W0. Please ensure that you complete A0 prior
 to starting W1.
 
-
 **Assignments**
 
-- [A0: Setting up VS Code](../assignments/a0.md): Complete before W1 starts
+- [A0: Self-Introduction, Setup VSCode and Soucetree](../assignments/a0.md): Complete before W1 starts
