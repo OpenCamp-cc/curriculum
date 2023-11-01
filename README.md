@@ -17,15 +17,43 @@ in January 2024, and will be used for our Beta class starting on the week of
 
 ## Curriculum Overview
 
-- Phase 1: General Tools and Programming Skills (2.5 months)
+-
+
+<details>
+    <summary>**Phase 1: General Tools and Programming Skills (6 weeks)**</summary>
+
+    Key topics:
     - Git and Github
     - HTML and CSS
-    - Python and JS fundamentals
+    - Python and JavaScript fundamentals
 
-- Phase 2: Specialization (1.5 months)
+    - Week 1: Basics of HTML and CSS
+    - Week 2: HTML Forms, Basic Algorithms, Git (with Sourcetree)
+    - Week 3: Web Layouts, Algorithms
+    - Week 4: Basics of Programming with Python and JavaScript
+    - Week 5: Building Interactive Websites with JavaScript
+    - Week 6: Using Bootstrap, Algorithms
+    - Week 7: Phase 1 Capstone 1: Building your personal blog on GitHub
+</details>
+
+-  (6 weeks)
+
+<details>
+    <summary>**Phase 2: Frontend and Backend Development (6 weeks)**</summary>
+
+    Key topics:
     - Frontend: AJAX, SPAs, and React
     - Backend: Django + SQL
-    - All: Personal Project #1
+    - All: Personal Project # 1
+
+    - Week 8: AJAX and working with Backend APIs
+    - Week 9: Introduction to React
+    - Week 10: React and Backend APIs
+    - Week 11: Python Refresher + Backend APIs with Django
+    - Week 12: SQL and Django Models
+    - Week 13: More SQL and Deploying Backend Services
+    - Week 14: Phase 2 Capstone: Building a CRM System
+</details>
 
 - Phase 3: Further Specialization and Portfolio Building (2 months+)
     - Frontend: React + Tailwind + Vercel
