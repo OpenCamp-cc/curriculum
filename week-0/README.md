@@ -6,9 +6,9 @@ officially starts.
 At the end of this week, you should have completed the following:
 
 - Introduced yourself to the rest of the class or community on our Discord server
-- Install and begin using Visual Studio Code
+- Installed and begin using Visual Studio Code
     - Copy and paste simple HTML code and opening web pages in your web browser
-- Install Sourcetree
+- Installed Sourcetree
 
 You will learn the basics of HTML and CSS in W1.
 
