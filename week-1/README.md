@@ -350,6 +350,7 @@ using CSS. The button should say "I love CSS".
   In the lecture video, the instructor has demonstrated other ways to use CSS, such as writing CSS Styles within the `<head>` tag using the `<style>...</style>`.
 
   Try recreating this button with the `<style>` tag. 
+</details>
 
 **Assignments for W1**
 
