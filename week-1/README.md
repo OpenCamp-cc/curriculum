@@ -351,11 +351,9 @@ using CSS. The button should say "I love CSS".
 
   Try recreating this button with the `<style>` tag. 
 
+**Assignments for W1**
 
-**Assignments**
-
-- [A0: Setting up VSCode](../assignments/a0.md): Complete together with A1
-- [A1: Creating a simple personal website pt. 1](../assignments/a1.md): Due by W1 Wednesday 23:59
+- [A1: Creating a simple personal website pt. 1](../assignments/a1.md): Due by W1 Thursday 23:59
 - [A2: Creating a simple personal website pt. 2](../assignments/a2.md): Due by W1 Sunday 23:59
 
 
