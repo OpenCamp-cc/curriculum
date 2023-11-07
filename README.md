@@ -28,8 +28,8 @@ in January 2024, and will be used for our Beta class starting on the week of
     - Python and JavaScript fundamentals
 
     - Week 1: Basics of HTML and CSS
-    - Week 2: HTML Forms, Basic Algorithms, Git (with Sourcetree)
-    - Week 3: Web Layouts, Algorithms
+    - Week 2: HTML Forms, Basic Algorithms
+    - Week 3: Web Layouts, Git (Sourcetree)
     - Week 4: Basics of Programming with Python and JavaScript
     - Week 5: Building Interactive Websites with JavaScript
     - Week 6: Using Bootstrap, Algorithms

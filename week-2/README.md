@@ -10,7 +10,7 @@ assignments.
 At the end of this week, you should be able to do the following:
 
 - Use HTML and CSS to build forms for various purposes (eg. registration)
-- Create git repositories and push them to Github
+- Solve simple algorithm questions (without coding)
 
 [freeCodeCamp][fcc] is a completely free website for learning how to code. We
 will be using several of their exercises as learning materials, while you
