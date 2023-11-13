@@ -10,7 +10,7 @@ At the end of this week, you should be able to do the following:
 - Use HTML and CSS to build websites with different layouts using Flexbox or Gridbox
 - Create git repositories, commit and revert code changes
 
-### Overview of W2
+### Overview of W3
 
 1. [freeCodeCamp][fcc]: [Responsive Web Design Course][fcc-web]: complete the following exercises on their website: [Learn the CSS Box Model by Building a Rothko Painting][fcc-web]:
   - [Learn the CSS Box Model by Building a Rothko Painting][fcc-web]
