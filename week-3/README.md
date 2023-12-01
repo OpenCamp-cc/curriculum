@@ -23,8 +23,10 @@ At the end of this week, you should be able to do the following:
 
 **Assignments**
 
-- [A5: ](../assignments/a5.md): Due on W3 Thursday 23:59
-- [A6: ](../assignments/a6.md): Due on W3 Sunday 23:59
+- [A5: Grid and Flexbox Challenge](../assignments/a5.md): Due on W3 Thursday 23:59
+- [A6: Git Commits](../assignments/a6.md): Due on W3 Sunday 23:59
+  - If time permits, you may wish to complete the official GitHub [hello world][gh-hello-world] tutorial to learn more about Git and GitHub. Otherwise, you can complete it on Week 4.
 
 [fcc]: https://freecodecamp.org
 [fcc-web]: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+[gh-hello-world]: https://docs.github.com/en/get-started/quickstart/hello-world
