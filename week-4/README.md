@@ -36,7 +36,7 @@ At the end of this week, you should be able to do the following:
 **Assignments**
 
 - [A7: Simple Programming Challenges](../assignments/a7.md): Due on W4 Thursday 23:59
-- [A8: GitHub and Git](../assignments/a8.md): Due on W4 Sunday 23:59
+- [A8: GitHub For Your Code](../assignments/a8.md): Due on W4 Sunday 23:59
 
 [cs50w-2]: https://cs50.harvard.edu/web/2020/weeks/2/
 [cs50w-5]: https://cs50.harvard.edu/web/2020/weeks/5/
